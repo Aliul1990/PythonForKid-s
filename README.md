@@ -1,6 +1,6 @@
 # 🐍 Python For Kid's / Everybody
  - Course Outline of Python For Kid's / Everybody
-# Class 00: Introductory		
+#🎓 Class 00: Introductory		
 - About the Instractor
 - Something Added by Admin
 - Prerequisites of Python Course		
@@ -8,7 +8,7 @@
 - Course Goal & Plan
 - 	
 			
-	# Class 01: Introduction of Python		
+	#🎓 Class 01: Introduction of Python		
 - What is Python?		
 - Who Developed Python?		
 - A Brief History of Python Python & Versions		

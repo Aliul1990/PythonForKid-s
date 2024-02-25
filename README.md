@@ -1,4 +1,4 @@
-## 🚀 Python For Kid's / Everybody
+## 🐍 Python For Kid's / Everybody
 
 # Class 00: Introductory		
 - About the Instractor

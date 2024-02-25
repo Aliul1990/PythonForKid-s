@@ -5,7 +5,7 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
+|1 | [About the Instractor](#About-the-Instractor)|
 
 # 🎓 Class 00: Introductory		
 - [About the Instractor](#About-the-Instractor)
@@ -232,13 +232,11 @@
 - Presentation
 
 	### Class 00: Introductory		
-- About the Instractor
-1. ### What is Angular Framework?
-
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+1. ### About the Instractor
+  This is Md. Aliul Islam. Faculty of Pyton.
 
   **[⬆ Back to Top](#table-of-contents)**
-  This is Md. Aliul Islam. Faculty of Pyton.
+
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		

@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-| No. | Questions |
+| 🎓 Class 00 | Introductory |
 |---- | ---------
 |1 | [About the Instractor](#About-the-Instractor)|
 

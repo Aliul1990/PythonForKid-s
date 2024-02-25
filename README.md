@@ -3,18 +3,14 @@
 
 ### Table of Contents
 
-|  | 🎓 Class 00 Introductory |
+|  | 🎓 Class 00: Introductory |
 |---- | ---------
 |1 | [About the Instractor](#About-the-Instractor)|
-
-# 🎓 Class 00: Introductory		
-- [About the Instractor](#About-the-Instractor)
-- Something Added by Admin
-- Prerequisites of Python Course		
-- Course Content of Python		
-- Course Goal & Plan
-- 	
-			
+|2 | [Prerequisites of Python Course](#Prerequisites-of-Python-Course)|
+|3 | [Course Content of Python](#Course-Content-of-Python)|
+|4 | [Course Goal & Plan](#Course-Goal-&-Plan)|
+|5 | [About the Instractor](#About-the-Instractor)|
+		
 	# 🎓 Class 01: Introduction of Python		
 - What is Python?		
 - Who Developed Python?		

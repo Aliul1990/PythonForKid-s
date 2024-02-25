@@ -1,6 +1,6 @@
 # 🐍 Python For Kid's / Everybody
  - Course Outline of Python For Kid's / Everybody
-#🎓 Class 00: Introductory		
+# 🎓 Class 00: Introductory		
 - [About the Instractor](#About-the-Instractor)
 - Something Added by Admin
 - Prerequisites of Python Course		
@@ -224,7 +224,7 @@
 - Final Project
 - Presentation
 
-	# Class 00: Introductory		
+	### Class 00: Introductory		
 - About the Instractor
   This is Md. Aliul Islam. Faculty of Pyton.
 - Prerequisites of Python Course		

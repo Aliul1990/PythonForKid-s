@@ -226,6 +226,7 @@
 
 	### Class 00: Introductory		
 - About the Instractor
+
   This is Md. Aliul Islam. Faculty of Pyton.
 - Prerequisites of Python Course		
 - Course Content of Python		

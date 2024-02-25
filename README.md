@@ -1,5 +1,12 @@
 # 🐍 Python For Kid's / Everybody
  - Course Outline of Python For Kid's / Everybody
+
+### Table of Contents
+
+| No. | Questions |
+|---- | ---------
+|1 | [What is Angular Framework?](#what-is-angular-framework)|
+
 # 🎓 Class 00: Introductory		
 - [About the Instractor](#About-the-Instractor)
 - Something Added by Admin
@@ -226,7 +233,11 @@
 
 	### Class 00: Introductory		
 - About the Instractor
+1. ### What is Angular Framework?
 
+    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+
+  **[⬆ Back to Top](#table-of-contents)**
   This is Md. Aliul Islam. Faculty of Pyton.
 - Prerequisites of Python Course		
 - Course Content of Python		

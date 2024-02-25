@@ -8,7 +8,7 @@
 - Course Goal & Plan
 - 	
 			
-	#🎓 Class 01: Introduction of Python		
+	# 🎓 Class 01: Introduction of Python		
 - What is Python?		
 - Who Developed Python?		
 - A Brief History of Python Python & Versions		
@@ -20,7 +20,7 @@
 - Reserved Words of Python		
 - Project: Project thinking discussion		
 			
-	# Class 02: Fundamental of Python		
+	# 🎓 Class 02: Fundamental of Python		
 - Python Syntax
 - Naming Conventions & Indentation		
 - Python Case-Sensitive or Not		
@@ -34,7 +34,7 @@
 - Escape Characters		
 - Project: Project based on Chapter		
 			
-	# Class 03: Operator		
+	# 🎓 Class 03: Operator		
 - Introduction to Operators		
 - Operand vs Operator		
 - Boolen Operator		

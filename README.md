@@ -2,6 +2,7 @@
  - Course Outline of Python For Kid's / Everybody
 #🎓 Class 00: Introductory		
 - About the Instractor
+- [About the Instractor](#About-the-Instractor)
 - Something Added by Admin
 - Prerequisites of Python Course		
 - Course Content of Python		

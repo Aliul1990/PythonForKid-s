@@ -230,12 +230,20 @@
 	### Class 00: Introductory		
 1. ### About the Instractor
   This is Md. Aliul Islam. Faculty of Pyton.
-
   **[⬆ Back to Top](#table-of-contents)**
 
-- Prerequisites of Python Course		
-- Course Content of Python		
-- Course Goal & Plan		
+2. ### Prerequisites of Python Course
+  Basic Programing Knowledge
+  **[⬆ Back to Top](#table-of-contents)**
+
+3. ### Course Content of Python
+  This is Md. Aliul Islam. Faculty of Pyton.
+  **[⬆ Back to Top](#table-of-contents)**
+
+4. ### Course Goal & Plan	
+  This is Md. Aliul Islam. Faculty of Pyton.
+  **[⬆ Back to Top](#table-of-contents)**
+
 			
 	# Class 01: Introduction of Python		
 - What is Python?		
